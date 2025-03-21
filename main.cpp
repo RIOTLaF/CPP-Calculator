@@ -11,9 +11,9 @@ void static pvalue(int value) {
 }
 
 void static calculate() {
-	std::string valor1;
-	std::string valor2;
-	std::string type;
+	string valor1;
+	string valor2;
+	string type;
 
 	print("Enter a value");
 	cin >> valor1;
